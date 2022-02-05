@@ -126,18 +126,183 @@ Calendar
 
   
 
-| WEEK # | PAPERS DISCUSSED | LAB TOPICS |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | Julius, David, Amy B. MacDermott, Richard Axel, and Thomas M. Jessel. "Molecular Characterization of a Funcational cDNA Encoding the Serotonin 1c Receptor." | Basic Skills in a Molecular Biology Lab |
-| 3 | Buck, Linda, and Richard Axel. "A Novel Multigene Family May Encode Odorant Receptors: A Molecular Basis for Odor Recognition." | Sequence Analysis and Vector Design |
-| 4 | Question and Answer Session | PCR and Digestion |
-| 5 | Shen, Karen, and Tobias Meyer. "Dynamic Control of CaMKII Translocation and Localization in Hippocampal Neurons by NMDA Receptor Stimulation." | DNA Purification and Subcloning |
-| 6 | Scheiffele, Peter, Jinhong Fan, Jenny Choih, Richard Fetter, and Tito Serafini. "Neuroligin Expressed in Nonneuronal Cells Tiggers Presynaptic Development in Contacting Axons." |  |
-| 7 | Hua, Jackie Yuanyuan, Matthew C. Smear, Herwig Baler, and Stephen J. Smith. "Regulation of Axon Growth In Vivo by Activity-based Competition." | Transformation, Colony pick-up, Miniprep, and Digestion |
-| 8 | Antoch, Marina P., Eun-Joo Song, Anne-Marie Change, Martha Hotz Vitaterna, Yaliang Zhao, Lisa D. Wilsbacher, Ashvin M. Sangoram, David P. King, Lawrence H. Pinto, and Joseph S. Takahashi. "Functional Identification of the Mouse Circadian Clock Gene by Transgenic BAC Rescue." | Basic Cell Culture |
-| 9 | Serafini, Tito, Timothy E. Kennedy, Michael J. Galko, Christine Mirzayen, Thomas M. Jessell, and Marie Tessler-Lavigne. "The Netrins Define a Family of Axon Outgrouth-promoting Proteins Homologous to C. elegans UNC-6." | Primary Culture of Neurons from the Brain |
-| 10 |  {{< br >}}{{< br >}} Gould, Elizabeth, Alison J. Reeves, Michael S. A. Graziano, and Charles G. Gross. "Neurogenesis in the Neocortex of Adult Primates." {{< br >}}{{< br >}} Kornack, David R., and Pasko Rakic. "Cell Proliferations without Neurogenesis in Adult Primate Neocortex." {{< br >}}{{< br >}}  | SDS-Polyacrylamide Gel Electrophoresis and Western Blotting |
-| 11 | MacLauren, R. E., R. A. Pearson, A. MacNeil, R. H. Douglas, T. E. Salt, M. Akimoto, A. Swaroop, J. S. Sowden, and R. R. Ali. "Retinal Repair by Transplantation of Photoreceptor Precursors." | Western Blotting 2: Detection |
-| 12 | Davis, Graeme W., and Corey S. Goodman. "Synapse Specific control of Synaptic Efficacy at the Terminals of a Single Neuron." | Brain Tissue Processing |
-| 13 | Brown, Arthur, Paul A. Yates, Patrick Burrola, Dan Ortuno, Ashish Vaidya, Thomas M. Jessell, Samuel L. Pfaff, Dennis D.M. O'Leary, and Greg Lemke. "Topographic Mapping from the Retina to the Midbrain Is Controlled by Relative but not Absolute Levels of EphA Receptor Signaling." |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+PAPERS DISCUSSED
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Julius, David, Amy B. MacDermott, Richard Axel, and Thomas M. Jessel. "Molecular Characterization of a Funcational cDNA Encoding the Serotonin 1c Receptor."
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Skills in a Molecular Biology Lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Buck, Linda, and Richard Axel. "A Novel Multigene Family May Encode Odorant Receptors: A Molecular Basis for Odor Recognition."
+{{< tdclose >}}
+{{< tdopen >}}
+Sequence Analysis and Vector Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Question and Answer Session
+{{< tdclose >}}
+{{< tdopen >}}
+PCR and Digestion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Shen, Karen, and Tobias Meyer. "Dynamic Control of CaMKII Translocation and Localization in Hippocampal Neurons by NMDA Receptor Stimulation."
+{{< tdclose >}}
+{{< tdopen >}}
+DNA Purification and Subcloning
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Scheiffele, Peter, Jinhong Fan, Jenny Choih, Richard Fetter, and Tito Serafini. "Neuroligin Expressed in Nonneuronal Cells Tiggers Presynaptic Development in Contacting Axons."
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Hua, Jackie Yuanyuan, Matthew C. Smear, Herwig Baler, and Stephen J. Smith. "Regulation of Axon Growth In Vivo by Activity-based Competition."
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation, Colony pick-up, Miniprep, and Digestion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Antoch, Marina P., Eun-Joo Song, Anne-Marie Change, Martha Hotz Vitaterna, Yaliang Zhao, Lisa D. Wilsbacher, Ashvin M. Sangoram, David P. King, Lawrence H. Pinto, and Joseph S. Takahashi. "Functional Identification of the Mouse Circadian Clock Gene by Transgenic BAC Rescue."
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Cell Culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Serafini, Tito, Timothy E. Kennedy, Michael J. Galko, Christine Mirzayen, Thomas M. Jessell, and Marie Tessler-Lavigne. "The Netrins Define a Family of Axon Outgrouth-promoting Proteins Homologous to C. elegans UNC-6."
+{{< tdclose >}}
+{{< tdopen >}}
+Primary Culture of Neurons from the Brain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gould, Elizabeth, Alison J. Reeves, Michael S. A. Graziano, and Charles G. Gross. "Neurogenesis in the Neocortex of Adult Primates."
+
+Kornack, David R., and Pasko Rakic. "Cell Proliferations without Neurogenesis in Adult Primate Neocortex."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+SDS-Polyacrylamide Gel Electrophoresis and Western Blotting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+MacLauren, R. E., R. A. Pearson, A. MacNeil, R. H. Douglas, T. E. Salt, M. Akimoto, A. Swaroop, J. S. Sowden, and R. R. Ali. "Retinal Repair by Transplantation of Photoreceptor Precursors."
+{{< tdclose >}}
+{{< tdopen >}}
+Western Blotting 2: Detection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Davis, Graeme W., and Corey S. Goodman. "Synapse Specific control of Synaptic Efficacy at the Terminals of a Single Neuron."
+{{< tdclose >}}
+{{< tdopen >}}
+Brain Tissue Processing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Brown, Arthur, Paul A. Yates, Patrick Burrola, Dan Ortuno, Ashish Vaidya, Thomas M. Jessell, Samuel L. Pfaff, Dennis D.M. O'Leary, and Greg Lemke. "Topographic Mapping from the Retina to the Midbrain Is Controlled by Relative but not Absolute Levels of EphA Receptor Signaling."
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
