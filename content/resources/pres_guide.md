@@ -4,6 +4,7 @@ description: Each student must give a presentation on several figures from 2 of 
   papers read for class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-12-experimental-molecular-neurobiology-fall-2006/d4e61e7416b852e1ebbae28d713e4612_pres_guide.pdf
 file_type: application/pdf
+parent_uid: a4d17e8c-c87a-8031-aa3c-6716c344d591
 resourcetype: Document
 title: pres_guide.pdf
 uid: d4e61e74-16b8-52e1-ebba-e28d713e4612

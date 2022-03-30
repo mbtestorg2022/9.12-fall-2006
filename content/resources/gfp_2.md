@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d98ee8b9-e9cb-f2bc-24a2-96c146eb496d
 resourcetype: Image
 title: gfp_2.jpg
 uid: 45898f9f-e3ae-7043-da4c-5a00d1ffc330
